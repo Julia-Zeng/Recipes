@@ -1,6 +1,12 @@
-Commands 
+# Recipes web
 
-`npm run dev`
+## Try my web
+
+- Download the files
+
+- Go to the directory and run the command `npm i``
+
+- Then for development enveiroment run the command `npm run dev`
 
 
 React Router
